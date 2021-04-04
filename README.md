@@ -1,6 +1,8 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/embeddedlab)  
 # Keypress Emulator  
 This project uses PIC18F2550 micro-controller to send keypress commands to PC, just like USB HID Keyboards.  
+[Blog Post](http://embeddedlaboratory.blogspot.com/2018/05/simulate-usb-keyboard-keypress-using.html)  
+
 Watch YouTube Video for demonstration purpose:  
 [![](https://img.youtube.com/vi/8Z71UZuREjQ/0.jpg)](https://www.youtube.com/watch?v=8Z71UZuREjQ)  
 
